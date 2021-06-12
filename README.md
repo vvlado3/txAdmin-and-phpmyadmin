@@ -1,1 +1,2 @@
-# txAdmin-and-phpmyadmin
+chmod +x txadmin.sh
+chmod +x phpmyadmin.sh
